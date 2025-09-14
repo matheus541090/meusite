@@ -39,7 +39,7 @@ export default function Home() {
         {/* botoes */}
         <div className="flex flex-col sm:flex-row gap-4 mb-4" id="botoes">
           <a
-            href="https://typebot.co/bitwts-g7pdimf"
+            href="https://wa.me/556299007928?text=Oi%20tenho%20interesse!"
             target="_blank"
             className="flex items-center justify-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-xl shadow-lg text-lg transition"
           >
